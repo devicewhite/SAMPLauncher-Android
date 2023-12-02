@@ -5,8 +5,8 @@
 This is a lightweight and simple base for a Mobile Open.MP and SA-MP Launcher. The purpose is to provide a starting point for testing and experimentation. There won't be a fully functional version; instead, the focus is on releasing the source code for customization.
 
 ## Key Features:
-- [] Minimalistic design for simplicity.
-- [] Test version to explore and adapt.
+- [ ] Minimalistic design for simplicity.
+- [ ] Test version to explore and adapt.
 - [x] Source code released for user customization.
 
 ## Usage:
@@ -28,8 +28,8 @@ Let simplicity guide your Mobile Open.MP and SA-MP Launcher development!
 Esta é uma base leve e simples para um Lançador Mobile Open.MP e SA-MP. O objetivo é fornecer um ponto de partida para testes e experimentação. Não haverá uma versão totalmente funcional; em vez disso, o foco é liberar o código fonte para personalização.
 
 ## Recursos Principais:
-- [] Design minimalista para simplicidade.
-- [] Versão de teste para explorar e adaptar.
+- [ ] Design minimalista para simplicidade.
+- [ ] Versão de teste para explorar e adaptar.
 - [x] Código fonte liberado para personalização do usuário.
 
 ## Uso:
